@@ -5,3 +5,4 @@ console.log(numerofilter) // chama todos o elemento que satisfaz a condicao
 
 let numeroFind =  numero.find(numero => numero > 100)
 console.log(numeroFind) // chama o primeiro elemento que satisfaz a condicao
+
